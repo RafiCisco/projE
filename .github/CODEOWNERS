@@ -17,13 +17,11 @@
 
 
 # Admin team for rpd1 
-rpd1/ @RafiCisco/admin
+rpe1/ @RafiCisco/admin
 
 
 # Dev team for rpd2,rpd3  and rpd4
-rpd2/ @RafiCisco/dev
-rpd3/ @RafiCisco/dev
-rpd4/ @RafiCisco/dev
+rpe2/ @RafiCisco/dev
 
 
 
